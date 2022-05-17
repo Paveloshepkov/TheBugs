@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheBugs</string>
+    <string name="score">Score</string>
+    <string name="exit">Exit</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="time">Time</string>
+    <string name="score_0">0</string>
+</resources>
